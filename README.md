@@ -1,1 +1,1 @@
-# IBM-Course-for-Data-Science-Projects
+# IBM-Course-for-Data-Analytics-Projects
